@@ -8,3 +8,6 @@ Download link: https://www.jetbrains.com/pycharm/download/
 This was built using the Turtle library built into python.
 # Assets
 The assets in this game are not to be used for commercial purposes.
+
+## Archival Note
+As of 12/31/22, I'm archiving this repository as no further changes are going to be made.
